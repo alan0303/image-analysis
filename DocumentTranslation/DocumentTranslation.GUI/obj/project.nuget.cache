@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXpgw6PJ5hnnTrhmrmECt2/KATvVkIbFO7wAUUF7Ib8g91teu3JG4NUrVXsK8S7pnt3G3w7pz1u3kimXgoZBzA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Alan\\Desktop\\AI\\DocumentTranslation\\DocumentTranslation.GUI\\DocumentTranslation.GUI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "找不到專案 'C:\\Users\\Alan\\Desktop\\AI\\DocumentTranslationService\\DocumentTranslationService.csproj'。請確定專案參考有效，且該專案檔存在。",
+      "libraryId": "C:\\Users\\Alan\\Desktop\\AI\\DocumentTranslationService\\DocumentTranslationService.csproj",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
